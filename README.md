@@ -1,0 +1,2 @@
+# ShakkiRelease
+Shakki kone
